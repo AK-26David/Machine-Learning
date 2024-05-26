@@ -437,4 +437,5 @@ print(vert_split_four)
 # Split the horizontally stacked array after the first and third row
 vert_split_first_third = np.vsplit(vert_stack,[1,3])
 print(vert_split_first_third)
-```
+  
+

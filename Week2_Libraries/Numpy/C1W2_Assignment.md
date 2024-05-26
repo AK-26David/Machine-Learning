@@ -717,6 +717,7 @@ B = np.array([[1], [2], [4]])
 row_echelon_form(A,B)
 ```
 
+def main()
 
 ```python
 w2_unittest.test_row_echelon_form(row_echelon_form)
@@ -927,3 +928,6 @@ else:
 ```
 
 Congratulations! You have finished the first assignment of this course! You built from scratch a linear system solver!
+
+
+
